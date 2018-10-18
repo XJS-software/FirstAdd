@@ -1,2 +1,2 @@
-# Hellow-JAVA
+# Hellow
 Java for our job!
